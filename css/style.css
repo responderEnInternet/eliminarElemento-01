@@ -1,0 +1,14 @@
+@media screen and (prefers-color-scheme: dark) {
+  body {
+    background-color: black;
+    color: rgba(255, 255, 255, 0.8);
+  }
+}
+@media screen and (prefers-color-scheme: light) {
+  body {
+    background-color: white;
+    color: #222;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */

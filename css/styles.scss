@@ -1,0 +1,11 @@
+body {
+    @media screen and (prefers-color-scheme: dark) {
+        background-color: black;
+        color: rgba(white, 0.8);
+    }
+
+    @media screen and (prefers-color-scheme: light) {
+        background-color: white;
+        color: #222;
+    }
+}
